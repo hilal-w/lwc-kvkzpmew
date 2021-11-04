@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/hilal-w.lwc-kvkzpmew",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve fWcIS8qhFf0uv3WMIWrA --open"
+  }
+}
